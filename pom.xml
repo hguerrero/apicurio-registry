@@ -158,18 +158,18 @@
 
         <!-- Schema types -->
         <avro.version>1.11.1</avro.version>
-        <json-schema-validator.version>1.0.83</json-schema-validator.version>
+        <json-schema-validator.version>1.0.84</json-schema-validator.version>
         <wire-schema.version>4.5.5</wire-schema.version>
         <wire-compiler.version>4.3.0</wire-compiler.version>
         <okio-jvm.version>3.3.0</okio-jvm.version>
         <okio.version>3.3.0</okio.version>
         <okio-fake-file-system.version>3.3.0</okio-fake-file-system.version>
-        <icu4j.version>73.1</icu4j.version>
+        <icu4j.version>73.2</icu4j.version>
         <protobuf.version>3.23.2</protobuf.version>
         <xmlsec.version>3.0.2</xmlsec.version>
         <protobuf.googleapi.types.version>2.20.0</protobuf.googleapi.types.version>
         <wsdl4j.version>1.6.3</wsdl4j.version>
-        <google.truth.extension.version>1.1.4</google.truth.extension.version>
+        <google.truth.extension.version>1.1.5</google.truth.extension.version>
 
         <!-- Picocli -->
         <picocli.version>4.6.3</picocli.version>
@@ -241,7 +241,7 @@
         <version.dependency.plugin>3.6.0</version.dependency.plugin>
         <version.assembly.plugin>3.6.0</version.assembly.plugin>
         <version.resources.plugin>3.3.1</version.resources.plugin>
-        <version.clean.plugin>3.2.0</version.clean.plugin>
+        <version.clean.plugin>3.3.1</version.clean.plugin>
         <version.frontend-maven.plugin>1.12.1</version.frontend-maven.plugin>
         <version.maven-antrun.plugin>3.1.0</version.maven-antrun.plugin>
 
